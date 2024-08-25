@@ -25,3 +25,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Create a file in the base directory called `.env.local` and copy the content in `.example.env.local` into the the newly created file.
 This would enable you use the firebase setup conveniently.
+
+## Step 5 - Create firebase app (Optional)
+
+I understand that providing environment variables over a public repository is ethically incorrect, I made the decision to include it in the code to enable easy
+submission and also review. If providing the env is incorrect please follow the steps in the documentation below to create and use a firebase application.
+
+`Create Firebase:` [https://firebase.google.com/docs/firestore/quickstart][https://firebase.google.com/docs/firestore/quickstart]

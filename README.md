@@ -31,4 +31,4 @@ This would enable you use the firebase setup conveniently.
 I understand that providing environment variables over a public repository is ethically incorrect, I made the decision to include it in the code to enable easy
 submission and also review. If providing the env is incorrect please follow the steps in the documentation below to create and use a firebase application.
 
-`Create Firebase:` [https://firebase.google.com/docs/firestore/quickstart][https://firebase.google.com/docs/firestore/quickstart]
+`Create Firebase:` [https://firebase.google.com/docs/firestore/quickstart](https://firebase.google.com/docs/firestore/quickstart)

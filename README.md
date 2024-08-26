@@ -1,5 +1,10 @@
 # Savannah Todo App
 
+## Implementations
+
+`Completed implementations:` Login and Signup with email and password credentials. Todo app (Create, List, Edit, Delete). <br />
+`Not Implemented:` Social login, forgot password
+
 ## Step 1 - Clone the repository
 
 In you command line terminal, please run `git clone https://github.com/i-Mhyke/savanna-todo.git` to get the code on you local machine.
@@ -7,6 +12,7 @@ After cloning move into the directory using the command `cd /savanna-todo`
 
 ## Step 2 - Install dependencies
 
+`Recommended node version:` The minimum Node.js version required is v18.17
 To get all the dependencies using in the application run `npm install` or `yarn install`.
 
 ## Step 3 - Development server

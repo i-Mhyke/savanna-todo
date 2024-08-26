@@ -8,7 +8,7 @@
 ## Step 1 - Clone the repository
 
 In you command line terminal, please run `git clone https://github.com/i-Mhyke/savanna-todo.git` to get the code on you local machine.
-After cloning move into the directory using the command `cd /savanna-todo`
+After cloning move into the directory using the command `cd savanna-todo`
 
 ## Step 2 - Install dependencies
 

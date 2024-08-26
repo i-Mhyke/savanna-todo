@@ -12,7 +12,7 @@ After cloning move into the directory using the command `cd /savanna-todo`
 
 ## Step 2 - Install dependencies
 
-`Recommended node version:` The minimum Node.js version required is v18.17
+`Recommended node version:` The minimum Node.js version required is v18.17. <br/>
 To get all the dependencies using in the application run `npm install` or `yarn install`.
 
 ## Step 3 - Development server
